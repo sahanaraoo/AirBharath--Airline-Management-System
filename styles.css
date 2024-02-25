@@ -1,0 +1,86 @@
+
+.Navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+    background-color: rgb(2, 2, 50);
+}
+.Navbar p {
+    margin: 0;
+    font-weight: bold;
+    font-size: 1.2rem;
+    color: white;
+}
+.Navbar a {
+    color: #000;
+    text-decoration: none;
+    margin-left: 20px;
+    color: white;
+    font-size: large;
+    font-style:bold;
+}
+
+body{
+    background-image: url("backplane.jpg");
+    background-size: 100%;
+}
+hr{
+    color: white;
+}
+.card {
+    /* width: 45%; */
+    width: 48%; /* Set the width to occupy 50% of the page */
+    margin-left: 10px;
+    
+}
+.search{
+    margin: 30px ;
+}
+.about-body{
+    background-color: rgb(81, 81, 201);
+}
+/* .cards{
+    border: 0.40rem solid #f8f9fa;
+  top: 10%;
+} */
+.card-reg{
+    margin-left:0.000001%;
+}
+.form-control{
+    margin: 15px;
+    margin-right: 30px;
+}
+.form-reg{
+    margin-right: 15px;
+}
+.form-log{
+    margin-right: 15px;
+}
+.form-login{
+    margin-right: 30px;
+}
+.admin-form{
+    margin-right: 30px;
+}
+.Abt-Nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+    background-color: rgb(2, 2, 50);
+}
+.Abt-Nav p {
+    margin: 0;
+    font-weight: bold;
+    font-size: 1.2rem;
+    color: white;
+}
+.Abt-Nav a {
+    color: #000;
+    text-decoration: none;
+    margin-left: 20px;
+    color: white;
+    font-size: large;
+    font-style:bold;
+}
